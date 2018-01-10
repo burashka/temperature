@@ -1,0 +1,8 @@
+{
+	"name": "temperature",
+	"version": "0.0.1",
+	"dependencies": {
+		"johnny-five":  "^0.9.13",
+		"ws":       	"*"
+	}
+}
